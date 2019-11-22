@@ -1,1 +1,1 @@
-Following the Modern React Bootcamp course
+## Based on Modern React Bootcamp by Colt Steele
